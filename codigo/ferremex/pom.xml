@@ -185,6 +185,7 @@
             <type>jar</type>
             <scope>compile</scope>
         </dependency>
+        
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-annotations</artifactId>

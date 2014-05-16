@@ -6,6 +6,7 @@
 <img alt="nada" src="picture/enConstruction.png">
 
 </div>
+<a href="segundo.jsp">aqui para ir otra pagina</a>
 
 </body>
 </html>
